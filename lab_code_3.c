@@ -9,7 +9,6 @@ int main()
     {
         scanf("%d", &A[i]);
     }
-
     for(i = 0; i < 5; i++)
     {
         printf("%d ", A[i]);
