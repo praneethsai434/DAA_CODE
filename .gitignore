@@ -1,0 +1,13 @@
+# Excluded lab codes (User requested to exclude 1 and 2)
+lab_code_1.c
+lab_code_2.c
+
+# Compiled executables and objects
+*.exe
+*.o
+*.obj
+*.out
+
+# Editor directories
+.vscode/
+.idea/
